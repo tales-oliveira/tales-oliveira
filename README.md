@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá
 
 <!--
 **tales-oliveira/tales-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+Contato: oliveiratalesf@gmail.com
