@@ -24,6 +24,3 @@ Aqui estão meus projetos pessoais e acadêmicos
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-## Contato
-Email: oliveiratalesf@gmail.com
